@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/11 19:36:24.000.585,=rtl.dcp</Transaction>
+    <Transaction>2022/07/11 19:41:56.000.383,=rtl.dcp</Transaction>
+    <Transaction>2022/07/11 19:42:59.000.215,G:\Usuarios\Deividy\Documentos\Embarcadero\Studio\Projects\Package2.dproj=D:\Andamento\prova-delphi-app\RuntimePackage\spComponentes.dproj</Transaction>
+    <Transaction>2022/07/11 19:48:49.000.441,=D:\Andamento\prova-delphi-app\RuntimePackage\uspQuery.pas</Transaction>
+    <Transaction>2022/07/11 20:15:28.000.167,=FireDAC.dcp</Transaction>
+    <Transaction>2022/07/11 20:15:28.000.208,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2022/07/11 20:15:28.000.248,=FireDACCommon.dcp</Transaction>
+    <Transaction>2022/07/11 20:15:28.000.117,=dbrtl.dcp</Transaction>
+    <Transaction>2022/07/11 21:18:35.000.081,D:\Andamento\prova-delphi-app\RuntimePackage\uspQuery.pas=</Transaction>
+    <Transaction>2022/07/11 21:20:53.000.682,=xmlrtl.dcp</Transaction>
+    <Transaction>2022/07/11 21:20:53.000.652,=D:\Andamento\prova-delphi-app\RuntimePackage\uspQuery.pas</Transaction>
+    <Transaction>2022/07/11 21:22:18.000.728,D:\Andamento\prova-delphi-app\RuntimePackage\uspQuery.pas=</Transaction>
+    <Transaction>2022/07/11 21:23:34.000.347,=D:\Andamento\prova-delphi-app\RuntimePackage\uspQuery.pas</Transaction>
+    <Transaction>2022/07/12 19:58:33.000.521,=vclFireDAC.dcp</Transaction>
+    <Transaction>2022/07/12 19:58:33.000.485,=vcl.dcp</Transaction>
+    <Transaction>2022/07/12 19:58:33.000.557,=FireDACIBDriver.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
