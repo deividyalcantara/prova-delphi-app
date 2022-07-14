@@ -132,15 +132,13 @@ begin
       if novo_field.DisplayName = 'idProjeto' then begin
         novo_field.AsInteger := i;
         novo_field.Alignment := TAlignment.taRightJustify;
-      end;
-
-      if novo_field.DisplayName = 'Projeto' then
-        novo_field.AsString := 'Projeto ' + IntToStr(i);
-
-      if novo_field.DisplayName = 'Valor' then begin
+      end
+      else if novo_field.DisplayName = 'Valor' then begin
         novo_field.AsString := IntToStr(i * 10);
         novo_field.Alignment := TAlignment.taRightJustify;
-      end;
+      end
+      else if novo_field.DisplayName = 'Projeto' then
+        novo_field.AsString := 'Projeto ' + IntToStr(i);
     end;
 
     componentes_dados.data_set.Post;
