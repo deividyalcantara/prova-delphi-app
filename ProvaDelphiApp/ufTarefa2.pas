@@ -34,9 +34,6 @@ type
 
 implementation
 
-const
-  cThread_Concluida = 0;
-
 {$R *.dfm}
 
 procedure TfTarefa2.AceitarSomenteNumero(var Key: Char);
