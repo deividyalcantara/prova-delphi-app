@@ -4,7 +4,7 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus, ufTarefa2, ufTarefa3;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus;
 
 type
   TfPrincipal = class(TForm)
@@ -25,7 +25,7 @@ var
 implementation
 
 uses
-  ufTarefa1;
+  ufTarefa1, ufTarefa2, ufTarefa3;
 
 {$R *.dfm}
 
